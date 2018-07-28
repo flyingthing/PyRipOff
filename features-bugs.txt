@@ -1,0 +1,16 @@
+
+FEATURES TO BE ADDED:
+1) pirate tank on new wave say out of bounds & don't move(in ATTACK MODE?)
+2) score & bonus level display same time
+4) improve spline movement
+5) no pirate-2-pirate collision
+6) no laser-fire from pirates
+7) better AI
+9) joystick control
+10) two player networking
+
+BUGS TO BE FIXED:
+1) game.py line #221 (self.pirates.remove(tank) err: x not in list
+2) issue where tank no fuel attached then off-screen player is target
+   but player move new location, pirate goes to old player spot then exits
+3) diff tanks types show up on level
