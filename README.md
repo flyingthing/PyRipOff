@@ -11,7 +11,7 @@ Clone of the 1980s Cinematronics **Rip Off** arcade game. Written by as a **Pyth
 </table>
 
 **REQUIREMENTS:**
-Before running the game, make sure you have [Python v3.6](http://www.python.org/download/) installed. You will also need to install [Pygame v1.9.1](http://www.pygame.org/download.shtml), as the game will not run without it.
+Before running the game, make sure you have [Python v3.6](http://www.python.org/download/) installed. You will also need to install [Pygame v1.9.1](http://www.pygame.org/download.shtml)and [PyTweening](https://pypi.org/project/PyTweening/), as the game will not run without it.
 
 From the command line: python pyripoff.py
 
