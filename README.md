@@ -1,6 +1,6 @@
 **PyRipOff**
 ===================
-Clone of the 1980s Cinematronics **Rip Off** arcade game. Written by as a **Python/Pygame** development exercise. To date, tested on Windows and Ubuntu platforms.
+Clone of the 1980s Cinematronics **Rip Off** arcade game. Written for a **Python/Pygame** development exercise. To date, tested on Windows and Ubuntu platforms.
 
 **SCREENSHOTS:**
 <table>
